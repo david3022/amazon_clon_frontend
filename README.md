@@ -3,7 +3,7 @@
 
 # Thank you for checking my 6th Project
 # My name is David Fajardo and here we can check an Amazon Clone using React, Tailwind CSS & Redux
-# davidafs36@gmail.com
+# davidfajardo3022@gmail.com
 
 ## Prerequisites
 
