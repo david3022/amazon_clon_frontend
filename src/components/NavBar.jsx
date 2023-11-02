@@ -34,7 +34,7 @@ const NavBar = () => {
           <div className="pr-4 pl-4">
             <div className="text-xs xl:text-sm">My Email is</div>
             <div className="text-sm xl:text-base font-bold">
-              Davidafs36@gmail.com
+              davidfajardo3022@gmail.com
             </div>
           </div>
           <div className="pr-4 pl-4">
