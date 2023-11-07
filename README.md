@@ -14,5 +14,6 @@ Node 14.x Version
 ## Start the app
 
 ```shell
+npm install
 npm start
 ```
